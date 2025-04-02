@@ -16,6 +16,14 @@
 - **🚨 Emergency Support** – Detects crisis situations and provides immediate helpline resources.
 
 ---
+### INTERFACE
+![INTERFACE](/screenshots/demo1.png)
+
+### QUIZ
+![QUIZ](/screenshots/demo2.png)
+
+### MOOD CHART
+![MOOD CHART](/screenshots/demo3.png)
 
 ## 🌟 How It Helps
 
