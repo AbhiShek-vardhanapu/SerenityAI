@@ -1,0 +1,14 @@
+{
+    "intents": {
+        "depression": ["sad", "depressed", "hopeless", "down"],
+        "anxiety": ["anxious", "nervous", "worried", "stressed"],
+        "happy": ["great", "happy", "good", "awesome"],
+        "default": []
+    },
+    "responses": {
+        "depression": "I’m sorry you’re feeling this way. Would you like to take a quiz to assess your mental health?",
+        "anxiety": "It sounds like you’re feeling anxious. Want to talk more or take a quiz?",
+        "happy": "That’s wonderful to hear! How can I assist you today?",
+        "default": "I’m here to help. How are you feeling?"
+    }
+}
